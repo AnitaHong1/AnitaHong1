@@ -17,7 +17,8 @@ I create comforting, quirky apps that solve real-life (and emotional) problems�
 
 ## 📂 Projects in Progress:
 
-- [Hey Kiddo – Comfort Chat App](https://hey-kiddo-lite.vercel.app/)  
+- Hey Kiddo – Comfort Chat App  
+[GitHub Repo](https://github.com/AnitaHong1/Hey-Kiddo-lite) • [Try It Live](https://hey-kiddo-lite.vercel.app/)  
 A gentle, text-style web app where you can talk to a comforting figure like mom, dad, fairy godmother, or auntie. Built to soothe your inner child.
 
 - [What Do You Want to Eat?](#) – Decision-making food app *(coming soon)*  
