@@ -14,7 +14,7 @@ I'm a Computer Science graduate passionate about building practical tech, simpli
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=orange)
 
-## 📂 Featured Projects
+## 📂 Projects in Progress:
 - [What Do You Want to Eat](https://github.com/yourproject1) – Decision-making food app
 - [Punch Card Loyalty App](https://github.com/yourproject2) – Digital punch card for small businesses
 
