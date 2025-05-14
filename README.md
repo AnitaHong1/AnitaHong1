@@ -1,7 +1,7 @@
 # Hi there, I'm Anita 👋  
 ## A recent CS grad from SUNY Binghamton and COOP Data Fellow!
-I'm a curious builder, empathetic problem-solver, and data + tech enthusiast.  
-I care about creating tools that are actually useful—and explaining things in a way that makes sense.
+I'm a curious builder who’s slowly relearning to love code after burnout.
+I create comforting, quirky apps that solve real-life (and emotional) problems—and explain tech in a way that feels safe.
 
 - 🌱 I’m currently learning DevOps and React Native
 - 🧠 COOP Data Fellow + former Coding Instructor at iCode
@@ -16,8 +16,13 @@ I care about creating tools that are actually useful—and explaining things in 
 ![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=orange)
 
 ## 📂 Projects in Progress:
-- [What Do You Want to Eat](https://github.com/yourproject1) – Decision-making food app
-- [Punch Card Loyalty App](https://github.com/yourproject2) – Digital punch card for small businesses
+
+- [Hey Kiddo – Comfort Chat App](https://hey-kiddo-lite.vercel.app/)  
+A gentle, text-style web app where you can talk to a comforting figure like mom, dad, fairy godmother, or auntie. Built to soothe your inner child.
+
+- [What Do You Want to Eat?](#) – Decision-making food app *(coming soon)*  
+-  [Punch Card Loyalty App](#) – Digital punch card for small businesses *(coming soon)*
+
 
 ## 🤝 Organizations I'm a Member Of
 <p align="left">
