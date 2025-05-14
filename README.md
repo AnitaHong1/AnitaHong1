@@ -1,5 +1,5 @@
-### Hi there, I'm Anita 👋  
-#A recent CS grad from SUNY Binghamton and COOP Data Fellow!
+# Hi there, I'm Anita 👋  
+## A recent CS grad from SUNY Binghamton and COOP Data Fellow!
 I'm a curious builder, empathetic problem-solver, and data + tech enthusiast.  
 I care about creating tools that are actually useful—and explaining things in a way that makes sense.
 
