@@ -17,8 +17,7 @@ I'm a Computer Science graduate passionate about building practical tech, simpli
 ## 📂 Featured Projects
 - [What Do You Want to Eat](https://github.com/yourproject1) – Decision-making food app
 - [Punch Card Loyalty App](https://github.com/yourproject2) – Digital punch card for small businesses
-- [Netflix Analysis](https://github.com/yourproject3) – Data viz project using Tableau & Excel
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HongAnita)
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/heyanitaminute)
